@@ -1,0 +1,6 @@
+﻿country_id,activity_id,plan_id,status_id
+C1,A1,M1,R2
+C2,A2,M2,R1
+C3,A3,M3,R3
+C1,A2,M2,R2
+C2,A1,M1,R1
